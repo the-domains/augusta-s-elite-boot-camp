@@ -1,0 +1,28 @@
+name: Augusta's Elite Boot Camp
+favicon: null
+layout_spectrum: 0.908303810749203
+typography_spectrum: 0.6159010655246675
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7556518067140132
+  lightness: 0.462354545481503
+  saturation: 0.2216882409993559
+  rhythmicContrast: 0.011976789450272918
+purpose: []
