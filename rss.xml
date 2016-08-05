@@ -4,7 +4,7 @@
         <description><![CDATA[Augusta's Elite Boot Camp]]></description>
         <link>http://augustaselitebootcamp.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 20:30:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2016 20:38:11 GMT</lastBuildDate>
         <atom:link href="http://augustaselitebootcamp.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://augustaselitebootcamp.com/97c6ce5c-b384-4a78-bab3-0de84daafbd9/index.html</link>
             <guid isPermaLink="false">97c6ce5c-b384-4a78-bab3-0de84daafbd9</guid>
             <pubDate>Fri, 05 Aug 2016 20:30:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/286c6972-4ff5-447a-9d48-55c9a6c8e116.png">]]></description>
+            <link>http://augustaselitebootcamp.com/76e6225a-592e-499b-8a6d-8fd9cc099414/index.html</link>
+            <guid isPermaLink="false">76e6225a-592e-499b-8a6d-8fd9cc099414</guid>
+            <pubDate>Fri, 05 Aug 2016 20:37:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
