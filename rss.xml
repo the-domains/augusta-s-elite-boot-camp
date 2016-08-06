@@ -4,7 +4,7 @@
         <description><![CDATA[Augusta's Elite Boot Camp]]></description>
         <link>http://augustaselitebootcamp.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Aug 2016 19:31:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2016 19:31:52 GMT</lastBuildDate>
         <atom:link href="http://augustaselitebootcamp.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,17 +15,17 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/72253321-785d-4170-8493-f41773f8c305.png" alt="" title="">]]></description>
+            <link>http://augustaselitebootcamp.com/7814d886-dbb1-463d-87ab-d1a294966abd/index.html</link>
+            <guid isPermaLink="false">7814d886-dbb1-463d-87ab-d1a294966abd</guid>
+            <pubDate>Sat, 06 Aug 2016 19:31:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/29434ac6-2298-4248-93d5-882c3f5d5d63.png">]]></description>
             <link>http://augustaselitebootcamp.com/bf3df8d7-d709-4967-9cc4-caa8e22def34/index.html</link>
             <guid isPermaLink="false">bf3df8d7-d709-4967-9cc4-caa8e22def34</guid>
             <pubDate>Sat, 06 Aug 2016 19:30:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/72253321-785d-4170-8493-f41773f8c305.png">]]></description>
-            <link>http://augustaselitebootcamp.com/7814d886-dbb1-463d-87ab-d1a294966abd/index.html</link>
-            <guid isPermaLink="false">7814d886-dbb1-463d-87ab-d1a294966abd</guid>
-            <pubDate>Sat, 06 Aug 2016 19:26:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
