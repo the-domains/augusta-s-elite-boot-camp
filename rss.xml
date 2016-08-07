@@ -4,7 +4,7 @@
         <description><![CDATA[Augusta's Elite Boot Camp]]></description>
         <link>http://augustaselitebootcamp.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Aug 2016 01:02:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2016 01:03:16 GMT</lastBuildDate>
         <atom:link href="http://augustaselitebootcamp.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://augustaselitebootcamp.com/97c6ce5c-b384-4a78-bab3-0de84daafbd9/index.html</link>
             <guid isPermaLink="false">97c6ce5c-b384-4a78-bab3-0de84daafbd9</guid>
             <pubDate>Fri, 05 Aug 2016 20:30:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Get Started ][ Give us a call: 803-998-9005</p>]]></description>
+            <link>http://augustaselitebootcamp.com/get-started-give-us-a-call-803-998-9005/index.html</link>
+            <guid isPermaLink="false">d6954756-b76f-4356-9cda-aea85c57569a</guid>
+            <pubDate>Sun, 07 Aug 2016 01:03:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +33,6 @@
             <link>https://aebootcamp.wufoo.com/forms/zaw4kii0vhhtmq/</link>
             <guid isPermaLink="false">dc065489-33db-4976-b96d-97059560b243</guid>
             <pubDate>Sun, 07 Aug 2016 01:01:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Get Started ][ Give us a call: 803-998-9005</p>]]></description>
-            <link>http://augustaselitebootcamp.com/get-started-give-us-a-call-803-998-9005/index.html</link>
-            <guid isPermaLink="false">d6954756-b76f-4356-9cda-aea85c57569a</guid>
-            <pubDate>Sat, 06 Aug 2016 21:04:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
