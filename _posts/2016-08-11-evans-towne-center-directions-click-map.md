@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'https://goo.gl/maps/2XG5SBsyiBq'
 inLanguage: null
 keywords: []
 description: Evans Towne Center Directions. Click Map.
-datePublished: '2016-08-11T16:47:49.036Z'
-dateModified: '2016-08-11T16:47:37.415Z'
+datePublished: '2016-08-11T16:49:59.005Z'
+dateModified: '2016-08-11T16:49:51.712Z'
 title: ''
 author:
   - name: ''
@@ -20,8 +21,7 @@ publisher:
   url: ''
   favicon: null
 starred: false
-url: evans-towne-center-directions-click-map/index.html
-_type: Article
+_type: MediaObject
 
 ---
 Evans Towne Center Directions. Click Map.
