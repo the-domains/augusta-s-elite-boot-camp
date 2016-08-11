@@ -28,7 +28,7 @@ navigation:
   - name: Contact
     id: 2ac5ea26-575c-4db2-b1c7-6aef212447d0
     type: content
-  - name: Places To heck Out
+  - name: Places To Check Out
     url: 'http://augustaselitebootcamp.com'
     type: external
 favicon: null
