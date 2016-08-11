@@ -5,14 +5,18 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Savannah Rapids Park Directions. Click Map.
-datePublished: '2016-08-11T16:33:14.855Z'
-dateModified: '2016-08-11T16:30:17.397Z'
+datePublished: '2016-08-11T16:35:36.208Z'
+dateModified: '2016-08-11T16:35:23.953Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 via: {}
 sourcePath: _posts/2016-08-11-savannah-rapids-park-directions.md
 authors: []
-publisher: {}
+publisher:
+  name: ''
+  url: ''
 starred: false
 url: savannah-rapids-park-directions/index.html
 _type: Article
