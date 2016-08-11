@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://goo.gl/maps/2XG5SBsyiBq'
 inLanguage: null
 keywords: []
 description: Evans Towne Center Directions. Click Map.
-datePublished: '2016-08-11T16:49:59.005Z'
-dateModified: '2016-08-11T16:49:51.712Z'
+datePublished: '2016-08-11T21:04:43.715Z'
+dateModified: '2016-08-11T21:04:37.855Z'
 title: ''
 author:
   - name: ''
