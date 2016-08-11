@@ -5,19 +5,21 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Evans Towne Center Directions. Click Map.
-datePublished: '2016-08-11T16:19:43.446Z'
-dateModified: '2016-08-11T16:18:41.196Z'
+datePublished: '2016-08-11T16:24:22.953Z'
+dateModified: '2016-08-11T16:19:46.144Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 via: {}
+sourcePath: _posts/2016-08-11-evans-towne-center-directions-click-map.md
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
 starred: false
-sourcePath: _posts/2016-08-11-evans-towne-center-directions-click-map.md
 url: evans-towne-center-directions-click-map/index.html
 _type: Article
 
