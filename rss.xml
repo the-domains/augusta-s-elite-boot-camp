@@ -4,7 +4,7 @@
         <description><![CDATA[Augusta's Elite Boot Camp]]></description>
         <link>http://augustaselitebootcamp.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 21:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 21:13:57 GMT</lastBuildDate>
         <atom:link href="http://augustaselitebootcamp.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://augustaselitebootcamp.com/97c6ce5c-b384-4a78-bab3-0de84daafbd9/index.html</link>
             <guid isPermaLink="false">97c6ce5c-b384-4a78-bab3-0de84daafbd9</guid>
             <pubDate>Fri, 05 Aug 2016 20:30:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f0dfd3d-45d3-4cd3-8032-6db7791e977f.png" alt="" title="">]]></description>
+            <link>https://goo.gl/maps/2XG5SBsyiBq</link>
+            <guid isPermaLink="false">a486af66-aebd-4717-9a98-cb70240d4fde</guid>
+            <pubDate>Thu, 11 Aug 2016 21:13:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +33,6 @@
             <link>https://aebootcamp.wufoo.com/forms/zaw4kii0vhhtmq/</link>
             <guid isPermaLink="false">dc065489-33db-4976-b96d-97059560b243</guid>
             <pubDate>Thu, 11 Aug 2016 16:52:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f0dfd3d-45d3-4cd3-8032-6db7791e977f.png" alt="" title="">]]></description>
-            <link>https://goo.gl/maps/2XG5SBsyiBq</link>
-            <guid isPermaLink="false">a486af66-aebd-4717-9a98-cb70240d4fde</guid>
-            <pubDate>Thu, 11 Aug 2016 16:50:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
