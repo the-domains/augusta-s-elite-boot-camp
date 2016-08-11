@@ -25,11 +25,11 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Contact
-    id: 2ac5ea26-575c-4db2-b1c7-6aef212447d0
-    type: content
   - name: Awesome Places
     url: 'http://augustaselitebootcamp.com/Awesome Places'
     type: external
+  - name: Contact
+    id: 2ac5ea26-575c-4db2-b1c7-6aef212447d0
+    type: content
 favicon: null
 purpose: []
